@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica Mario", "Assembly-CSharp.csproj", "{3BE9C79E-9B23-2520-ACDA-20B49ABFC019}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica Mario", "Assembly-CSharp-firstpass.csproj", "{4234DD01-F155-4B79-165E-2B51537B487A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica Mario", "Assembly-CSharp-Editor-firstpass.csproj", "{9D69B18B-47CF-0818-3D0D-3691260356CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BE9C79E-9B23-2520-ACDA-20B49ABFC019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BE9C79E-9B23-2520-ACDA-20B49ABFC019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BE9C79E-9B23-2520-ACDA-20B49ABFC019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BE9C79E-9B23-2520-ACDA-20B49ABFC019}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4234DD01-F155-4B79-165E-2B51537B487A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4234DD01-F155-4B79-165E-2B51537B487A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4234DD01-F155-4B79-165E-2B51537B487A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4234DD01-F155-4B79-165E-2B51537B487A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D69B18B-47CF-0818-3D0D-3691260356CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D69B18B-47CF-0818-3D0D-3691260356CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D69B18B-47CF-0818-3D0D-3691260356CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D69B18B-47CF-0818-3D0D-3691260356CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
