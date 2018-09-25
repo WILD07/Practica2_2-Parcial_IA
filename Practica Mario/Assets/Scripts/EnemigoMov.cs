@@ -26,10 +26,10 @@ public class EnemigoMov : MonoBehaviour {
 	}
     void OnTriggerEnter(Collider other)
     {
-        if (other.gameObject.tag == "Player")
+        if (other.gameObject.tag == "Destroy")
         {
             Destroy(other.gameObject);
-            Destroy(this.gameObject);
+            //Destroy(this.gameObject);
             
         }        
 
